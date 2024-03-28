@@ -13,9 +13,6 @@ My name is Mahmoud Hamada from Egypt. I am a software engineer, my goal is to be
                  OOP
             </li>
             <li>
-                 Java
-            </li>
-            <li>
                git
             </li>
             <li>
