@@ -7,22 +7,22 @@ My name is Mahmoud Hamada from Egypt. I am a software engineer, my goal is to be
     <p>
         <ul>
             <li>
-                <img width="15" src="images/html.png"/> Java
+                 Java
             </li>
             <li>
-                <img width="15" src="images/css3.png"/> OOP
+                 OOP
             </li>
             <li>
-                <img width="15" src="images/reactjs.png"/> Java
+                 Java
             </li>
             <li>
-                <img width="15" src="images/git.png"/> git
+               git
             </li>
             <li>
-                <img width="15" src="images/mysql.png"/> MySQL
+                 MySQL
             </li>
             <li>
-                <img width="15" src="images/linux.png"/> Linux
+                Linux
             </li>
         </ul>
     </p>
