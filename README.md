@@ -2,7 +2,7 @@
 
 My name is Mahmoud Hamada from Egypt. I am a software engineer, my goal is to become a Java development professional, contribute innovative solutions to companies and make a huge impact in the software development industry.. I love Java. 👨‍💻
 - - -
-
+<details>
     <summary>My Skills 👨‍💻</summary>
     <p>
         <ul>
@@ -26,7 +26,7 @@ My name is Mahmoud Hamada from Egypt. I am a software engineer, my goal is to be
             </li>
         </ul>
     </p>
-
+</details>
 
 #### How to contact me
 * [Email](mailto:mahmoudh.abdelhady@gmail.com)
